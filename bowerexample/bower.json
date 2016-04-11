@@ -1,0 +1,21 @@
+{
+  "name": "bowerexample",
+  "homepage": "https://github.com/codesdk/mynodejsapps",
+  "authors": [
+    "Code SDK <codesdktutorials@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
